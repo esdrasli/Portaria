@@ -1,0 +1,34 @@
+{
+  "name": "Portaria",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@mindinventory/react-native-tab-bar-interaction": "github:mindinventory/react-native-tab-bar-interaction",
+    "firebase": "^5.0.3",
+    "lodash": "^4.17.11",
+    "material-icons": "^0.2.3",
+    "moment": "^2.22.2",
+    "react": "16.6.1",
+    "react-native": "0.57.7",
+    "react-native-elements": "^0.19.1",
+    "react-native-image-picker": "^0.27.2",
+    "react-native-router-flux": "^4.0.6",
+    "react-native-svg": "^8.0.8",
+    "react-native-tab-view": "^1.3.1",
+    "react-native-vector-icons": "^6.1.0",
+    "rn-fetch-blob": "^0.10.13"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.50.0",
+    "react-test-renderer": "16.6.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
