@@ -13,7 +13,7 @@
     "material-icons": "^0.2.3",
     "moment": "^2.22.2",
     "react": "16.6.1",
-    "react-native": "0.57.7",
+    "react-native": "0.70.2",
     "react-native-elements": "^0.19.1",
     "react-native-image-picker": "^0.27.2",
     "react-native-router-flux": "^4.0.6",
